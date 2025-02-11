@@ -2,9 +2,9 @@
 
 How the Instagram follower bot works.
 
-- You need to have Visual Studio Code and Python installed on your computer
+- You need Visual Studio Code and Python installed in your computer
   
-- Using Visual Studio Code or any code editor, on lines 63 and 64, change the username and password for the user to that of the profile that will follow the accounts
+- Using Visual Studio Code or any code editor, on lines 63 and 64, change the username and password for the user that will follows the acoounts
   
 - In the contas.txt file, you must type the @instagram_profile of each user you want to follow, all separated by @
 
